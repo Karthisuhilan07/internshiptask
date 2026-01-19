@@ -1,5 +1,22 @@
 # Intenship Task
-* **Task-01:** Write test cases for a calculator application. *
-*  **Task-02:** Test a website on different browsers and devices. *
-*  **Task-04:** Perform cross-browser testing using BrowserStack.
-*  Task-05: Automate the end-to-end e-commerce checkout flow by adding items to the cart, completing checkout forms, validating page transitions, and verifying the success message using a UI automation tool.**
+🧪 **Software Testing Tasks Repository**
+
+This repository contains basic software testing tasks to practice **manual testing** and **QA documentation**.
+
+**It includes:**
+
+* Test scenarios and test cases
+* Positive and negative testing
+* Bug/defect reports
+* Sample test plans
+* Testing of simple applications (Calculator, Login, Forms)
+
+**Purpose:**
+
+* Learn software testing concepts
+* Practice writing and executing test cases
+* Build a beginner QA portfolio
+
+👩‍🎓 **Suitable for:** Students, freshers, and beginners in software testing.
+
+📌 *For learning and educational purposes only.*
